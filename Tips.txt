@@ -1,0 +1,40 @@
+We are now turning in a file for Lab.
+
+Submitting .html through BB submit for archive purposes.
+
+HTML is a markup language using tags and attributes to define the appearance of
+a website. Paragraph Tags open and close <p></p> like quotes.
+
+<br> is a newline;
+
+Tags can be nested.
+Attributes add information to the content. Some of them are optional, some of
+them aren't. Image attributes usually aren't.
+
+Always save as .html
+
+Save to desktop for easier submission.
+
+10 Basic tags
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+<title></title>
+<meta charset = "utf-8">
+</head>
+<body>
+//Content Here.
+</body>
+</html>
+
+
+Lists and Ordered Lists
+<ol> //Ordered
+<li> "Item 1" </li>
+<li> "Item 2" </li>
+</ol>
+
+<ul> //Unordered
+<li> "Item 1" </li>
+<li> "Item 2" </li>
+</ul>
